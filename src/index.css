@@ -7,7 +7,8 @@
 }
 
 body{
-  background:url('img/img4.jpg');
+  background:url('img/img8.jpg');
+  /* background-color: black; */
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
@@ -68,7 +69,7 @@ body{
 /* blog details page */
 .blog-details h2 {
   font-size: 20px;
-  color: #0c0b0b;
+  color: #f6f1f1;
   margin-bottom: 10px;
 }
 .blog-details div {
